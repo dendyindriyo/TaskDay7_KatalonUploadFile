@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>a226fc39-f5e0-4a8d-b220-868df900bc8a</webElementGuid>
+      <webElementGuid>85fc2997-cf4e-4b3e-ba63-958646077f6f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>d3fd15f5-4442-4aec-b110-0be4c5ef310f</webElementGuid>
+      <webElementGuid>681dbaf1-447d-4585-a5ac-b5044e78a4db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>file-submit</value>
-      <webElementGuid>ca161b5b-e4a2-42de-b4d7-586806742ffd</webElementGuid>
+      <webElementGuid>099e48ff-aa0d-4119-8c30-1d23cc008dfe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>642e19a6-ff57-4879-9b68-5c92eb5939ce</webElementGuid>
+      <webElementGuid>63fe0d47-a8eb-4c55-a94c-831c53b71276</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Upload</value>
-      <webElementGuid>02638d7e-fa71-4417-8133-5eb5d939d4ac</webElementGuid>
+      <webElementGuid>8789b87a-aaf7-4b28-9f74-0c06faf83f61</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;file-submit&quot;)</value>
-      <webElementGuid>3d123bf1-86d3-40d7-b8fd-220640312b99</webElementGuid>
+      <webElementGuid>640e1692-9c23-44f6-807e-14d7a1e484f9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='file-submit']</value>
-      <webElementGuid>f44ee4ad-9372-4db9-94f3-88ed5b8212d9</webElementGuid>
+      <webElementGuid>26412293-2c21-4a3b-a47a-7733c3e3299a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='content']/div/form/input[2]</value>
-      <webElementGuid>7c6d35ce-b04d-4804-8a2a-60e488eeccf3</webElementGuid>
+      <webElementGuid>e6db1d6b-706e-411a-b5d1-54c14b54addf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input[2]</value>
-      <webElementGuid>d282e3ad-790a-4ba0-b84e-00cfca8a06ac</webElementGuid>
+      <webElementGuid>bec79250-7891-4cad-b21b-79d114871adc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'file-submit' and @type = 'submit']</value>
-      <webElementGuid>838b67dc-3b54-4bac-a5e0-707d161c981e</webElementGuid>
+      <webElementGuid>509f38a6-7292-4f11-aca1-77bd602ab664</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
