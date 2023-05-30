@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_03_Upload File (Data Driven Testing) - Number 2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>30689cbc-1f36-410d-be5b-2164322748d1</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>92ab0973-3c7f-4f2a-9948-de5ccee93606</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/UploadFile</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>92ab0973-3c7f-4f2a-9948-de5ccee93606</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>URLDIR</value>
+      <variableId>cf7add00-6cd3-4ceb-a167-98546d98ce8b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('UploadFile').getValue(3, 3)</defaultValue>
+      <description></description>
+      <id>cf7add00-6cd3-4ceb-a167-98546d98ce8b</id>
+      <masked>false</masked>
+      <name>file</name>
+   </variable>
+</TestCaseEntity>

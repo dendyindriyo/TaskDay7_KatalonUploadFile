@@ -6,12 +6,12 @@
    <elementGuidId>01bf2d60-ad08-44f4-9414-ad7f3c586fc6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='file-upload']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#file-upload</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='file-upload']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>bdf14596-abf8-4306-8212-f040e9fff12d</webElementGuid>
+      <webElementGuid>2b069114-897c-469b-9c9d-d254b0377eac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>file-upload</value>
-      <webElementGuid>f718cac2-1c34-440a-80d6-53283f5abb40</webElementGuid>
+      <webElementGuid>c1f2f33d-bf7a-42eb-90ae-e86b28abe17b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>file</value>
-      <webElementGuid>bf7ca49f-345d-4d0f-9930-d47adf031a72</webElementGuid>
+      <webElementGuid>01b49599-4cfb-4ac9-b53c-d2c9b6a73156</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>file</value>
-      <webElementGuid>a1fe87f8-11b9-47a1-8a45-e87853fe5843</webElementGuid>
+      <webElementGuid>7b17d5df-5132-42c0-bb6e-bf1405003661</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;file-upload&quot;)</value>
-      <webElementGuid>676057ed-e235-4515-926f-40d6dc85ca47</webElementGuid>
+      <webElementGuid>2094d9ac-8d00-48f7-8b03-30654fd86b44</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='file-upload']</value>
-      <webElementGuid>1d8ad67b-a676-4591-b5e0-c62854dc6fac</webElementGuid>
+      <webElementGuid>710f3401-42d3-488a-aa2b-4c16f8d1d56e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='content']/div/form/input</value>
-      <webElementGuid>a616055c-286c-44e9-ae09-c1e098c0449f</webElementGuid>
+      <webElementGuid>a8fb0664-d45e-488d-94b1-2beafdb799b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>0e6d8534-9266-498d-9cbd-6527ed95cac4</webElementGuid>
+      <webElementGuid>6108aa58-9b18-4155-938f-e407cf913366</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'file-upload' and @type = 'file' and @name = 'file']</value>
-      <webElementGuid>d74b07cb-39aa-4f38-a650-c8aefa4fed13</webElementGuid>
+      <webElementGuid>81373eb1-ed96-4c63-aa51-8ad822900adf</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

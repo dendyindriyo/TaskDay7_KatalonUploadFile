@@ -6,12 +6,12 @@
    <elementGuidId>5e73d9cb-80e5-4aba-8077-095148a7349e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='content']/div/h3</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>h3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div/h3</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h3</value>
-      <webElementGuid>12a9f528-abb9-43c6-a954-7f88a3b472cc</webElementGuid>
+      <webElementGuid>d5f0e427-a92e-4cd6-9ce1-f90ab9563e27</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value>File Uploaded!</value>
-      <webElementGuid>5b8622ba-8363-4172-b1d5-81ab083640b3</webElementGuid>
+      <webElementGuid>730e4f46-75a3-412f-a653-f90479c8fef5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;content&quot;)/div[@class=&quot;example&quot;]/h3[1]</value>
-      <webElementGuid>6becc216-4965-4746-951d-9ff2f87a7d3e</webElementGuid>
+      <webElementGuid>141b5a9a-2d65-49ee-8720-1df95c1e475a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='content']/div/h3</value>
-      <webElementGuid>b6fdd78b-0a78-4f4b-977d-635687e00962</webElementGuid>
+      <webElementGuid>1e9a50ff-aae0-4ea3-b610-7ce29e1341c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='test.png'])[1]/preceding::h3[1]</value>
-      <webElementGuid>c1ccf64b-fba5-4b75-85c4-c79c5d02b7b7</webElementGuid>
+      <webElementGuid>75d421ed-4d58-498b-99ca-6c5ea64b57a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='File Uploaded!']/parent::*</value>
-      <webElementGuid>128674ee-a6f7-4216-87ea-67c57fdee8b4</webElementGuid>
+      <webElementGuid>4c314eb3-8f67-4a77-ac4b-1288a277fbb1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h3</value>
-      <webElementGuid>161920e6-972d-4b58-9f99-93da921f5e2e</webElementGuid>
+      <webElementGuid>b2ae5674-4ddf-4c43-95e4-870a18b978da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +78,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h3[(text() = 'File Uploaded!' or . = 'File Uploaded!')]</value>
-      <webElementGuid>3c6aa493-4a4d-433e-90c5-27c3e309f82a</webElementGuid>
+      <webElementGuid>1b2ac34e-fa63-44a9-8cf0-076e3cff5d9a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
