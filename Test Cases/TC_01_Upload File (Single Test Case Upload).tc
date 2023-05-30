@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_01_Upload File (Single Test Case Upload)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>19c1cfea-ab2f-4ee1-8f60-133cf11b9ab2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6d1bee3a-7d10-428a-a274-284cb319d665</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'D:\\\\Program Files\\\\Katalon\\\\Katalon Projects\\\\TaskDay7_KatalonUploadFile_DendyIndriyoSaputro\\\\Pictures\\\\test.png'</defaultValue>
+      <description></description>
+      <id>6d1bee3a-7d10-428a-a274-284cb319d665</id>
+      <masked>false</masked>
+      <name>file</name>
+   </variable>
+</TestCaseEntity>
